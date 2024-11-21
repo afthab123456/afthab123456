@@ -1,1 +1,1 @@
-![Commits](https://github-readme-stats.vercel.app/api?username=afthab123456&count_private=true&show_icons=true&hide_title=true&hide=prs&theme=dark)
+<img src="[https://your-link-to-flying-plane.gif](https://cdn.pixabay.com/animation/2022/07/31/20/14/20-14-05-792_512.gif)" width="200" />
