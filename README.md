@@ -1,1 +1,2 @@
-![Commits in the Last Year](https://github-readme-stats.vercel.app/api?username=afthab123456&show_icons=true&count_private=true&include_all_commits=true)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=your-username.your-repo-name)
+
