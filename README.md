@@ -17,4 +17,4 @@
 - Email: afthab.afti@gmail.com
 
 ## 📈 GitHub Stats
-![Afthab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afthab&show_icons=true&hide_title=true)
+![Afthab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afthab123456&show_icons=true&hide_title=true)
