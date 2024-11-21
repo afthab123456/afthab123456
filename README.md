@@ -1,1 +1,2 @@
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=afthab123456.visitor-badge)
+![Current Time](https://timeapi.io/api/Badge/TimeZone?timeZone=GMT)
+
