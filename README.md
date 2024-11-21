@@ -6,9 +6,9 @@
 - 🔧 I love working with  **Flutter**, **JavaScript** and **Python**.
 
 ## 🛠️ Tools & Technologies
-- **Languages**: JavaScript, Dart, Python, C
+- **Languages**: Dart, JavaScript, Python, C, Swift
 - **Frameworks**: Flutter
-- **Other**: Git, Firebase
+- **Other**: Git, Firebase, Arduino
 
 ## 🌱 Currently learning
 - Exploring advanced **Flutter** concepts.
