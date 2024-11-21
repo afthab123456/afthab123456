@@ -1,1 +1,1 @@
-<img src="https://cdn.pixabay.com/animation/2022/07/31/20/14/20-14-05-792_512.gif" width="200" />
+<img src="https://archive.org/download/cool-animated-gif-33/cool-animated-gif-33.gif" width="200" />
