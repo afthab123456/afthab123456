@@ -1,9 +1,9 @@
 # Hi there, I'm Afthab 👋
 
 ## 👨‍💻 About Me
-- 🎓 I'm currently working on my flutter skills.
-- 🚀 I specialize in **Web development**, **Flutter**, and **Software solutions**.
-- 🔧 I love working with  **Flutter**, **JavaScript** and **Python**.
+- 🎓 I'm a student at **Royal College, Colombo**, constantly working to sharpen my **Flutter** development skills.
+- 🚀 My expertise lies in **Web development**, **Flutter**, and creating innovative **Software solutions**.
+- 🔧 Passionate about coding with **Flutter**, **JavaScript**, and **Python**.
 
 ## 🛠️ Tools & Technologies
 - **Languages**: Dart, JavaScript, Python, C, Swift
@@ -11,7 +11,7 @@
 - **Other**: Git, Firebase, Arduino
 
 ## 🌱 Currently learning
-- Exploring advanced **Flutter** concepts.
+- Delving deeper into advanced **Flutter** concepts to build cutting-edge applications.
 
 ## 📫 How to reach me
 - Email: afthab.afti@gmail.com
@@ -20,4 +20,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=afthab123456&theme=dark&hide_border=false)
 
 [![](https://visitcount.itsvg.in/api?id=afthab123456&icon=0&color=0)](https://visitcount.itsvg.in)
-
