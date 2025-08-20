@@ -7,7 +7,7 @@
 
 ## 🛠️ Tools & Technologies
 - **Languages**: Dart, JavaScript, Python, C, Swift
-- **Frameworks**: Flutter
+- **Frameworks & Libraries**: Flutter, React
 - **Other**: Git, Firebase, Arduino
 
 ## 🌱 Currently learning
