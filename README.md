@@ -15,6 +15,7 @@
 
 ## 📫 How to reach me
 - Email: afthab.afti@gmail.com
+- WhatsApp: +94 720123241
 
 ## 📈 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=afthab123456&theme=dark&hide_border=false)
